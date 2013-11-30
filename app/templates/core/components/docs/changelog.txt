@@ -1,0 +1,5 @@
+Changelog for <%= name %> integration into MODx Revolution.
+
+	<%= name %> <%= versionNo %>
+	====================================
+	- initial commit
