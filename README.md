@@ -44,7 +44,7 @@ $snippetsSource = array(
 ```
 
 ## Building Package
-Assuming you answered yes when asked to create a config file, you're `_build/build.config.php` file should already be created. Simply execute `build.transport.php` like so to build your package like so:
+Assuming you answered yes when asked to create a config file, you're `_build/build.config.php` file should already be created. Simply execute `build.transport.php` like so to build your package:
 ```bash
 php _build/build.transport.php
 ```
